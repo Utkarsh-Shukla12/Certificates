@@ -23,6 +23,13 @@ This repo was created in mind to keep the record of all the certificate issued i
 
 * [Accelerating Deep Learning with GPU ](https://github.com/Utkarsh-Shukla12/Certificates/blob/master/DeepLearningGPU_IBM.pdf)  [**IBM's batch**](https://www.youracclaim.com/badges/04dc1955-3948-49f4-a3b6-f408a7de627f/linked_in_profile)
 
+
+### NoSQL Database
+
+* [MongoDB Basics](https://github.com/Utkarsh-Shukla12/Certificates/blob/master/MongoDBCertiUtkarsh.pdf)
+
+* [MongoDB Basic Cluster and Administration](https://github.com/Utkarsh-Shukla12/Certificates/blob/master/M103_MongoDBUniversity.pdf)
+
 ## License
 
 [MIT License](https://en.wikipedia.org/wiki/MIT_License)
