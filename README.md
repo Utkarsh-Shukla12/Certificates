@@ -18,7 +18,6 @@ This repo was created in mind to keep the record of all the certificate issued i
 
 * [Spark Fundamental]()  ---> [**IBM's Badge**](https://www.youracclaim.com/badges/07241bef-c743-42b5-914d-c1b9c20dd0f5/linked_in_profile)
 
-* []
 
 ### Machine Learning 
 
