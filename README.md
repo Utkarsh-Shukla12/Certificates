@@ -43,7 +43,7 @@ This repo was created in mind to keep the record of all the certificate issued i
 
 ### Statistics
 
-[Statistics](https://github.com/Utkarsh-Shukla12/Certificates/blob/master/Statistics_IBM.pdf)
+* [Statistics](https://github.com/Utkarsh-Shukla12/Certificates/blob/master/Statistics_IBM.pdf)
 
 ## License
 
