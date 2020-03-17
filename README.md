@@ -16,7 +16,10 @@ This repo was created in mind to keep the record of all the certificate issued i
 
 * [Apache Pig](https://github.com/Utkarsh-Shukla12/Certificates/blob/master/ApachePig_IBM.pdf)
 
-* [Spark Fundamental]()  ---> [**IBM's Badge**](https://www.youracclaim.com/badges/07241bef-c743-42b5-914d-c1b9c20dd0f5/linked_in_profile)
+* [Spark Fundamental](https://github.com/Utkarsh-Shukla12/Certificates/blob/master/Spark_IBM.pdf)  ---> [**IBM's Badge**](https://www.youracclaim.com/badges/07241bef-c743-42b5-914d-c1b9c20dd0f5/linked_in_profile)
+
+* [Data Pipelines with Apache Kakfa](https://github.com/Utkarsh-Shukla12/Certificates/blob/master/Kafka_IBM.pdf)
+* [Accessing Hadoop data using Hive](https://github.com/Utkarsh-Shukla12/Certificates/blob/master/Hive_IBM.pdf)
 
 
 ### Machine Learning 
