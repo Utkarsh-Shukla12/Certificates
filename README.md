@@ -38,6 +38,9 @@ This repo was created in mind to keep the record of all the certificate issued i
 
 * [Microservices and IBM Cloud Kubernetes Service](https://github.com/Utkarsh-Shukla12/Certificates/blob/master/Microservices_with_Istio_IBM.pdf)  ---> [**IBM's Badge**](https://www.youracclaim.com/badges/37cfde15-9f6d-41a1-88fa-bdf5fed1f79b/linked_in_profile)
 
+### DataMining/ Text Analytics
+* [Text Analytics](https://github.com/Utkarsh-Shukla12/Certificates/blob/master/Text%20Analytics_IBM.pdf)
+
 ### NoSQL Database
 
 * [MongoDB Basics](https://github.com/Utkarsh-Shukla12/Certificates/blob/master/MongoDBCertiUtkarsh.pdf)
@@ -47,6 +50,7 @@ This repo was created in mind to keep the record of all the certificate issued i
 ### Statistics
 
 * [Statistics](https://github.com/Utkarsh-Shukla12/Certificates/blob/master/Statistics_IBM.pdf)
+
 
 ## License
 
