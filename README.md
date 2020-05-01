@@ -7,6 +7,10 @@ This repo was created in mind to keep the record of all the certificate issued i
 ### Udacity Nanodegree
 
 * [Deep Learning Nanodegree](https://confirm.udacity.com/QM2TUUTE)
+
+### Coursera Courses
+* [Industrial IoT on Google Cloud Platform](https://www.coursera.org/account/accomplishments/certificate/BC4KKMX6NW9W)
+
 ### Big Data
 
 * [Big Data 101](https://github.com/Utkarsh-Shukla12/Certificates/blob/master/Big_Data_IBM.pdf) ---> [**IBM's Badge**](https://www.youracclaim.com/badges/ac326c46-053f-4dcc-9525-ef50206c1483/linked_in_profile)
