@@ -9,7 +9,7 @@ This repo was created in mind to keep the record of all the certificate issued i
 * [Deep Learning Nanodegree](https://confirm.udacity.com/QM2TUUTE)
 
 ### Coursera Courses
-* [Computer Vision Basics][https://www.coursera.org/account/accomplishments/certificate/TWB5TLKGK32Y]
+* [Computer Vision Basics](https://www.coursera.org/account/accomplishments/certificate/TWB5TLKGK32Y)
 * [Industrial IoT on Google Cloud Platform](https://www.coursera.org/account/accomplishments/certificate/BC4KKMX6NW9W)
 
 ### Big Data
