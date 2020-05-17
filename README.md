@@ -13,7 +13,7 @@ This repo was created in mind to keep the record of all the certificate issued i
 * [Industrial IoT on Google Cloud Platform](https://www.coursera.org/account/accomplishments/certificate/BC4KKMX6NW9W)
 * [Google Cloud Platform Fundamentals for AWS Professionals](https://www.coursera.org/account/accomplishments/certificate/XXHXEJ4QVSRK)
 * [Introduction to Personal Branding](https://www.coursera.org/account/accomplishments/certificate/V3KWJMEHH7HS)
-* 
+
 
 ### Big Data
 
