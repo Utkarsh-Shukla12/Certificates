@@ -1,6 +1,6 @@
 # Certificates
 ## Description of Repository 
-This repo was created in mind to keep the records of all the Certificate issued to me. It show my progess over the time and motivates me to keep pushing myself and work hard. :)
+This repo was created to keep the records of all the Certificate issued to me. It shows my progess over the time and motivates me to keep pushing myself and work hard. Happy Learning :)
 
 ## Certificates
 
