@@ -12,6 +12,7 @@ This repo was created in mind to keep the record of all the certificate issued i
 * [Computer Vision Basics](https://www.coursera.org/account/accomplishments/certificate/TWB5TLKGK32Y)
 * [Industrial IoT on Google Cloud Platform](https://www.coursera.org/account/accomplishments/certificate/BC4KKMX6NW9W)
 * [Google Cloud Platform Fundamentals for AWS Professionals](https://www.coursera.org/account/accomplishments/certificate/XXHXEJ4QVSRK)
+* [Getting Started with AWS Machine Learning](https://www.coursera.org/account/accomplishments/certificate/9HVX5CKW3BYY)
 * [Introduction to Personal Branding](https://www.coursera.org/account/accomplishments/certificate/V3KWJMEHH7HS)
 
 
