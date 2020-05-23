@@ -1,6 +1,6 @@
 # Certificates
 ## Description of Repository 
-This repo was created in mind to keep the record of all the certificate issued in part or near future to Utkarsh Shukla. Anyone is free to take a look on certificates and if interested please feel free to reach me.
+This repo was created in mind to keep the records of all the Certificate issued to me. It show my progess over the time and motivates me to keep pushing myself and work hard. :)
 
 ## Certificates
 
