@@ -11,7 +11,7 @@ This repo was created to keep the records of all the Certificate issued to me. I
 ### Coursera Courses
 * [Computer Vision Basics](https://www.coursera.org/account/accomplishments/certificate/TWB5TLKGK32Y)
 * [Industrial IoT on Google Cloud Platform](https://www.coursera.org/account/accomplishments/certificate/BC4KKMX6NW9W)
-* [Machine Learning for Business Professionals]()
+* [Machine Learning for Business Professionals](https://www.coursera.org/account/accomplishments/certificate/3R9CMV5J9CJT)
 * [Google Cloud Platform Fundamentals for AWS Professionals](https://www.coursera.org/account/accomplishments/certificate/XXHXEJ4QVSRK)
 * [Getting Started with AWS Machine Learning](https://www.coursera.org/account/accomplishments/certificate/9HVX5CKW3BYY)
 * [Introduction to Personal Branding](https://www.coursera.org/account/accomplishments/certificate/V3KWJMEHH7HS)
