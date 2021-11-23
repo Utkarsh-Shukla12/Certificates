@@ -47,6 +47,8 @@ This repo was created to keep the records of all the Certificate issued to me. I
 
 ### IBM Maximo 
 
+* [Maximo Application Suite deployment overview]{https://github.com/Utkarsh-Shukla12/Certificates/blob/master/Maximo%20Application%20Suite%20deployment%20overview_Course%20completion%20certificate.pdf}  ---> [**IBM's Badge**]{https://www.credly.com/badges/6bbe150e-c7aa-41ea-b462-85175c4bd85b?source=linked_in_profile}
+
 ### Containers & Microservices
 
 * [Container & Kubernetes Essentials](https://github.com/Utkarsh-Shukla12/Certificates/blob/master/Containers_cloud_IBM.pdf) ---> [**IBM's Badge**](https://www.youracclaim.com/badges/37cfde15-9f6d-41a1-88fa-bdf5fed1f79b/linked_in_profile)
